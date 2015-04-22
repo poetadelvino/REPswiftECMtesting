@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     func greetings() {
         
         
-        println("hello darling")
+        println("hello ")
     }
 
 }
