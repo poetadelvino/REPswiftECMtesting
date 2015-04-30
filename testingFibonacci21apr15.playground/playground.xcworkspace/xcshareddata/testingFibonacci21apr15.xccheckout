@@ -7,18 +7,18 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>EE3E00F0-BD67-4AB4-B494-015C51143888</string>
 	<key>IDESourceControlProjectName</key>
-	<string>playground</string>
+	<string>testingFibonacci21apr15</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>A46A4FA75AE24C666FBCCBE6465D0FFE957D9BF8</key>
 		<string>https://github.com/poetadelvino/REPswiftECMtesting.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>testingFibonacci21apr15.playground/playground.xcworkspace</string>
+	<string>testingFibonacci21apr15.playground</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>A46A4FA75AE24C666FBCCBE6465D0FFE957D9BF8</key>
-		<string>../..</string>
+		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/poetadelvino/REPswiftECMtesting.git</string>
